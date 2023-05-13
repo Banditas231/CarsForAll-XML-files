@@ -1,0 +1,77 @@
+		EGER_Wheel_2,					*,		600,	120
+		EGER_Doors_Driver,					*,		600,	120	
+		EGER_Doors_coDriver,					*,		600,	120	
+		EGER_Doors_cargo1,					*,		600,	120	
+		EGER_Doors_cargo2,					*,		600,	120	
+		EGER_Doors_hood,			*,		500,	180
+		EGER_Doors_trunk,			*,		500,	180
+		EGER_Tent,			*,		500,	180
+
+		Gaz71_Wheel,					*,		600,	120
+		Gaz71_Doors_Driver,					*,		600,	120
+		Gaz71_Doors_coDriver,					*,		600,	120
+		Gaz71_Doors_hood,					*,		600,	120
+		Gaz71_Doors_trunk,					*,		600,	120
+
+		Interceptor_Wheel,					*,		600,	120
+		Interceptor_Doors_Driver,					*,		600,	120
+		Interceptor_Doors_coDriver,					*,		600,	120
+		Interceptor_Doors_hood,					*,		600,	120
+
+		UAZ469_offroad_Wheel,					*,		600,	120
+		UAZ469_offroad_Doors_trunk,		*,		500,	180
+		UAZ469_offroad_Doors_hood,	*,		500,	180	
+		UAZ469_offroad_Doors_Driver,		*,		500,	180
+		UAZ469_offroad_Doors_coDriver,		*,		500,	180
+		UAZ469_offroad_Doors_cargo1,		*,		500,	180
+		UAZ469_offroad_Doors_cargo2,		*,		500,	180
+		UAZ469_offroad_Doors_cargo3,		*,		500,	180
+
+		UAZ469_offroad_Wheel,					*,		600,	120
+		UAZ469_offroad_Doors_trunk,		*,		500,	180
+		UAZ469_offroad_Doors_hood,	*,		500,	180	
+		UAZ469_offroad_Doors_Driver,		*,		500,	180
+		UAZ469_offroad_Doors_coDriver,		*,		500,	180
+		UAZ469_offroad_Doors_cargo1,		*,		500,	180
+		UAZ469_offroad_Doors_cargo2,		*,		500,	180
+		UAZ469_offroad_Doors_cargo3,		*,		500,	180
+
+		UAZ469_offroad_Doors_trunk_Blue,					*,		600,	120
+		UAZ469_offroad_Doors_hood_Blue,		*,		500,	180
+		UAZ469_offroad_Doors_Driver_Blue,	*,		500,	180	
+		UAZ469_offroad_Doors_coDriver_Blue,		*,		500,	180
+		UAZ469_offroad_Doors_cargo1_Blue,		*,		500,	180
+		UAZ469_offroad_Doors_cargo2_Blue,		*,		500,	180
+		UAZ469_offroad_Doors_cargo3_Blue,		*,		500,	180
+		UAZ469_offroad_Doors_trunk_Yellow,		*,		500,	180
+		UAZ469_offroad_Doors_hood_Yellow,					*,		600,	120
+		UAZ469_offroad_Doors_Driver_Yellow,		*,		500,	180
+		UAZ469_offroad_Doors_coDriver_Yellow,	*,		500,	180	
+		UAZ469_offroad_Doors_cargo1_Yellow,		*,		500,	180
+		UAZ469_offroad_Doors_cargo2_Yellow,		*,		500,	180
+		UAZ469_offroad_Doors_cargo3_Yellow,		*,		500,	180
+		UAZ469_offroad_Doors_trunk_Red,		*,		500,	180
+		UAZ469_offroad_Doors_hood_Red,		*,		500,	180
+		UAZ469_offroad_Doors_Driver_Red,					*,		600,	120
+		UAZ469_offroad_Doors_coDriver_Red,		*,		500,	180
+		UAZ469_offroad_Doors_cargo1_Red,	*,		500,	180	
+		UAZ469_offroad_Doors_cargo2_Red,		*,		500,	180
+		UAZ469_offroad_Doors_cargo3_Red,		*,		500,	180
+
+		UAZ_3909_Doors_Driver,		*,		500,	180
+		UAZ_3909_Doors_coDriver,		*,		500,	180
+		UAZ_3909_Doors_cargo1,		*,		500,	180
+		UAZ_3909_Doors_cargo2,		*,		500,	180
+		UAZ_3909_Doors_cargo3,		*,		500,	180
+		UAZ_3909_Doors_hood,		*,		500,	180
+		UAZ_3909_Doors_hood,		*,		500,	180
+		UAZ_3909_Doors_Driver_Blue,		*,		500,	180
+		UAZ_3909_Doors_coDriver_Blue,		*,		500,	180
+		UAZ_3909_Doors_cargo1_Blue,		*,		500,	180
+		UAZ_3909_Doors_cargo2_Blue,		*,		500,	180
+		UAZ_3909_Doors_cargo3_Blue,		*,		500,	180
+		VAZ_2108_Wheel,		*,		500,	180
+		VAZ_2108_Doors_Driver,		*,		500,	180
+		VAZ_2108_Doors_coDriver,		*,		500,	180
+		VAZ_2108_Doors_hood,		*,		500,	180
+		VAZ_2108_Doors_trunk,		*,		500,	180
