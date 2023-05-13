@@ -1,0 +1,294 @@
+<VehicleParts>EGER
+        EGER_Wheel_2
+        EGER_Wheel_2
+        EGER_Wheel_2
+        EGER_Wheel_2
+        EGER_Doors_Driver
+        EGER_Doors_coDriver
+        EGER_Doors_cargo1
+        EGER_Doors_cargo2
+        EGER_Doors_hood
+        EGER_Doors_trunk	
+        EGER_Tent
+        SparkPlug
+        TruckBattery
+        HeadlightH7	
+        HeadlightH7
+        CarRadiator
+    
+<VehicleParts>Gaz71
+      Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Wheel
+	  Gaz71_Doors_Driver
+	  Gaz71_Doors_coDriver
+	  Gaz71_Doors_hood
+	  Gaz71_Doors_trunk
+	  SparkPlug
+	  TruckBattery
+	  HeadlightH7
+	  HeadlightH7
+	  CarRadiator
+    
+<VehicleParts>Interceptor
+      Interceptor_Wheel
+	  Interceptor_Wheel
+	  Interceptor_Wheel
+	  Interceptor_Wheel
+	  Interceptor_Doors_Driver
+	  Interceptor_Doors_coDriver
+	  Interceptor_Doors_hood
+	  SparkPlug
+	  CarBattery
+	  HeadlightH7
+	  HeadlightH7
+	  CarRadiator
+    
+<VehicleParts>UAZ469_offroad
+      UAZ469_offroad_Wheel
+	  UAZ469_offroad_Wheel
+	  UAZ469_offroad_Wheel
+	  UAZ469_offroad_Wheel
+	  UAZ469_offroad_Wheel
+	  SparkPlug
+	  CarBattery
+	  HeadlightH7
+	  HeadlightH7
+	  CarRadiator
+	  UAZ469_offroad_Doors_trunk
+	  UAZ469_offroad_Doors_hood
+	  UAZ469_offroad_Doors_Driver
+	  UAZ469_offroad_Doors_coDriver
+	  UAZ469_offroad_Doors_cargo1
+	  UAZ469_offroad_Doors_cargo2
+	  UAZ469_offroad_Doors_cargo3
+    
+<VehicleParts>UAZ469_offroad_Blue
+      UAZ469_offroad_Wheel
+	  UAZ469_offroad_Wheel
+	  UAZ469_offroad_Wheel
+	  UAZ469_offroad_Wheel
+	  UAZ469_offroad_Wheel
+	  SparkPlug
+	  CarBattery
+	  HeadlightH7
+	  HeadlightH7
+	  CarRadiator
+	  UAZ469_offroad_Doors_trunk_Blue
+	  UAZ469_offroad_Doors_hood_Blue
+	  UAZ469_offroad_Doors_Driver_Blue
+	  UAZ469_offroad_Doors_coDriver_Blue
+	  UAZ469_offroad_Doors_cargo1_Blue
+	  UAZ469_offroad_Doors_cargo2_Blue
+	  UAZ469_offroad_Doors_cargo3_Blue
+    
+<VehicleParts>UAZ469_offroad_Yellow
+     UAZ469_offroad_Wheel
+	 UAZ469_offroad_Wheel
+	 UAZ469_offroad_Wheel
+	 UAZ469_offroad_Wheel
+	 UAZ469_offroad_Wheel
+	 SparkPlug
+	 CarBattery
+	 HeadlightH7
+	 HeadlightH7
+	 CarRadiator
+	 UAZ469_offroad_Doors_trunk_Yellow
+	 UAZ469_offroad_Doors_hood_Yellow
+	 UAZ469_offroad_Doors_Driver_Yellow
+	 UAZ469_offroad_Doors_coDriver_Yellow
+	 UAZ469_offroad_Doors_cargo1_Yellow
+	 UAZ469_offroad_Doors_cargo2_Yellow
+	 UAZ469_offroad_Doors_cargo3_Yellow
+    
+<VehicleParts>UAZ469_offroad_Red
+    UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	UAZ469_offroad_Wheel
+	SparkPlug
+	CarBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	UAZ469_offroad_Doors_trunk_Red
+	UAZ469_offroad_Doors_hood_Red
+	UAZ469_offroad_Doors_Driver_Red
+	UAZ469_offroad_Doors_coDriver_Red
+	UAZ469_offroad_Doors_cargo1_Red
+	UAZ469_offroad_Doors_cargo2_Red
+	UAZ469_offroad_Doors_cargo3_Red
+    
+<VehicleParts>UAZ_3909
+    UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	UAZ_3909_Wheel
+	SparkPlug
+	CarBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	UAZ_3909_Doors_Driver
+	UAZ_3909_Doors_coDriver
+	UAZ_3909_Doors_cargo1
+	UAZ_3909_Doors_cargo2
+	UAZ_3909_Doors_cargo3
+	UAZ_3909_Doors_hood
+    
+<VehicleParts>UAZ_3909_Blue
+     UAZ_3909_Wheel
+	 UAZ_3909_Wheel
+	 UAZ_3909_Wheel
+	 UAZ_3909_Wheel
+	 UAZ_3909_Wheel
+	 SparkPlug
+	 CarBattery
+	 HeadlightH7
+	 HeadlightH7
+	 CarRadiator
+	 UAZ_3909_Doors_hood
+	 UAZ_3909_Doors_Driver_Blue
+	 UAZ_3909_Doors_coDriver_Blue
+	 UAZ_3909_Doors_cargo1_Blue
+	 UAZ_3909_Doors_cargo2_Blue
+	 UAZ_3909_Doors_cargo3_Blue
+    
+<VehicleParts>VAZ_2108
+      VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  SparkPlug
+	  CarBattery
+	  HeadlightH7
+	  HeadlightH7
+	  CarRadiator
+	  VAZ_2108_Doors_Driver
+	  VAZ_2108_Doors_coDriver
+	  VAZ_2108_Doors_hood
+	  VAZ_2108_Doors_trunk
+    
+<VehicleParts>VAZ_2108_Blue
+       VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   SparkPlug
+	   CarBattery
+	   HeadlightH7
+	   HeadlightH7
+	   CarRadiator
+	   VAZ_2108_Doors_Driver_Blue
+	   VAZ_2108_Doors_coDriver_Blue
+	   VAZ_2108_Doors_hood_Blue
+	   VAZ_2108_Doors_trunk_Blue
+    
+<VehicleParts>VAZ_2108_Green
+       VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   SparkPlug
+	   CarBattery
+	   HeadlightH7
+	   HeadlightH7
+	   CarRadiator
+	   VAZ_2108_Doors_Driver_Green
+	   VAZ_2108_Doors_coDriver_Green
+	   VAZ_2108_Doors_hood_Green
+	   VAZ_2108_Doors_trunk_Green
+    
+<VehicleParts>VAZ_2108_Black
+      VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  SparkPlug
+	  CarBattery
+	  HeadlightH7
+	  HeadlightH7
+	  CarRadiator
+	  VAZ_2108_Doors_Driver_Black
+	  VAZ_2108_Doors_coDriver_Black
+	  VAZ_2108_Doors_hood_Black
+	  VAZ_2108_Doors_trunk_Black
+    
+<VehicleParts>VAZ_2108_White
+     VAZ_2108_Wheel
+	 VAZ_2108_Wheel
+	 VAZ_2108_Wheel
+	 VAZ_2108_Wheel
+	 VAZ_2108_Wheel
+	 SparkPlug
+	 CarBattery
+	 HeadlightH7
+	 HeadlightH7
+	 CarRadiator
+	 VAZ_2108_Doors_Driver_White
+	 VAZ_2108_Doors_coDriver_White
+	 VAZ_2108_Doors_hood_White
+	 VAZ_2108_Doors_trunk_White
+    
+<VehicleParts>VAZ_2108_Ahegao
+      VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  SparkPlug
+	  CarBattery
+	  HeadlightH7
+	  HeadlightH7
+	  CarRadiator
+	  VAZ_2108_Doors_Driver_Ahegao
+	  VAZ_2108_Doors_coDriver_Ahegao
+	  VAZ_2108_Doors_hood_Ahegao
+	  VAZ_2108_Doors_trunk_Ahegao
+    
+<VehicleParts>VAZ_2108_Gold
+       VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   VAZ_2108_Wheel
+	   SparkPlug
+	   CarBattery
+	   HeadlightH7
+	   HeadlightH7
+	   CarRadiator
+	   VAZ_2108_Doors_Driver_Gold
+	   VAZ_2108_Doors_coDriver_Gold
+	   VAZ_2108_Doors_hood_Gold
+	   VAZ_2108_Doors_trunk_Gold
+    
+<VehicleParts>VAZ_2108_Chrome
+      VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  VAZ_2108_Wheel
+	  SparkPlug
+	  CarBattery
+	  HeadlightH7
+	  HeadlightH7
+	  CarRadiator
+	  VAZ_2108_Doors_Driver_Chrome
+	  VAZ_2108_Doors_coDriver_Chrome
+	  VAZ_2108_Doors_hood_Chrome
+	  VAZ_2108_Doors_trunk_Chrome
