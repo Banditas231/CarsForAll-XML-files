@@ -292,3 +292,254 @@
 	  VAZ_2108_Doors_coDriver_Chrome
 	  VAZ_2108_Doors_hood_Chrome
 	  VAZ_2108_Doors_trunk_Chrome
+
+<VehicleParts>TruenoAE86_Takumi
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Door_1_1_Takumi
+	TruenoAE86_Door_2_1_Takumi
+	TruenoAE86_Hood_Takumi
+	TruenoAE86_trunk_Takumi
+	SparkPlug
+	CarBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+
+<VehicleParts>TruenoAE86_Fuchia
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Door_1_1_Fuchia
+	TruenoAE86_Door_2_1_Fuchia
+	TruenoAE86_Hood_Fuchia
+	TruenoAE86_trunk_Fuchia
+	SparkPlug
+	CarBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+
+<VehicleParts>TruenoAE86_Orange
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Door_1_1_Orange
+	TruenoAE86_Door_2_1_Orange
+	TruenoAE86_Hood_Orange
+	TruenoAE86_trunk_Orange
+	SparkPlug
+	CarBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+
+<VehicleParts>TruenoAE86_Black
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Door_1_1_Black
+	TruenoAE86_Door_2_1_Black
+	TruenoAE86_Hood_Black
+	TruenoAE86_trunk_Black
+	SparkPlug
+	CarBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+
+<VehicleParts>TruenoAE86
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Wheel
+	TruenoAE86_Door_1_1
+	TruenoAE86_Door_2_1
+	TruenoAE86_Hood
+	TruenoAE86_trunk
+	SparkPlug
+	CarBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+
+<VehicleParts>BTR_Gold
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	SparkPlug
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	YK_BTR_Doors_Driver_Gold
+	YK_BTR_Doors_coDriver_Gold
+	YK_BTR_Doors_cargo1_Gold
+	YK_BTR_Doors_cargo2_Gold
+	YK_BTR_Doors_cargo3_Gold
+	YK_BTR_Doors_hood1_Gold
+	YK_BTR_Doors_hood2_Gold
+
+<VehicleParts>BTR_Chrome
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	SparkPlug
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	YK_BTR_Doors_Driver_Chrome
+	YK_BTR_Doors_coDriver_Chrome
+	YK_BTR_Doors_cargo1_Chrome
+	YK_BTR_Doors_cargo2_Chrome
+	YK_BTR_Doors_cargo3_Chrome
+	YK_BTR_Doors_hood1_Chrome
+	YK_BTR_Doors_hood2_Chrome
+
+<VehicleParts>BTR_Ark
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	SparkPlug
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	YK_BTR_Doors_Driver_Ark
+	YK_BTR_Doors_coDriver_Ark
+	YK_BTR_Doors_cargo1_Ark
+	YK_BTR_Doors_cargo2_Ark
+	YK_BTR_Doors_cargo3_Ark
+	YK_BTR_Doors_hood1_Ark
+	YK_BTR_Doors_hood2_Ark
+
+<VehicleParts>BTR_Crocodile
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	SparkPlug
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	YK_BTR_Doors_Driver_Crocodile
+	YK_BTR_Doors_coDriver_Crocodile
+	YK_BTR_Doors_cargo1_Crocodile
+	YK_BTR_Doors_cargo2_Crocodile
+	YK_BTR_Doors_cargo3_Crocodile
+	YK_BTR_Doors_hood1_Crocodile
+	YK_BTR_Doors_hood2_Crocodile
+
+<VehicleParts>BTR_Green
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	SparkPlug
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	YK_BTR_Doors_Driver_Green
+	YK_BTR_Doors_coDriver_Green
+	YK_BTR_Doors_cargo1_Green
+	YK_BTR_Doors_cargo2_Green
+	YK_BTR_Doors_cargo3_Green
+	YK_BTR_Doors_hood1_Green
+	YK_BTR_Doors_hood2_Green
+
+<VehicleParts>BTR_Black
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	SparkPlug
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	YK_BTR_Doors_Driver_Black
+	YK_BTR_Doors_coDriver_Black
+	YK_BTR_Doors_cargo1_Black
+	YK_BTR_Doors_cargo2_Black
+	YK_BTR_Doors_cargo3_Black
+	YK_BTR_Doors_hood1_Black
+	YK_BTR_Doors_hood2_Black
+
+<VehicleParts>BTR_White
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	SparkPlug
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	YK_BTR_Doors_Driver_White
+	YK_BTR_Doors_coDriver_White
+	YK_BTR_Doors_cargo1_White
+	YK_BTR_Doors_cargo2_White
+	YK_BTR_Doors_cargo3_White
+	YK_BTR_Doors_hood1_White
+	YK_BTR_Doors_hood2_White
+
+<VehicleParts>BTR
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	YK_BTR_Wheel
+	SparkPlug
+	TruckBattery
+	HeadlightH7
+	HeadlightH7
+	CarRadiator
+	YK_BTR_Doors_Driver
+	YK_BTR_Doors_coDriver
+	YK_BTR_Doors_cargo1
+	YK_BTR_Doors_cargo2
+	YK_BTR_Doors_cargo3
+	YK_BTR_Doors_hood1
+	YK_BTR_Doors_hood2
+
