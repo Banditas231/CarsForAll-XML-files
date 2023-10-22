@@ -1,0 +1,566 @@
+{
+	"m_Version": 12,
+	"DisplayName": "Custom Car Parts",
+	"Icon": "Deliver",
+	"Color": "FBFCFEFF",
+	"InitStockPercent": 75,
+	"IsExchange": 0,
+	"Items": [
+		{
+			"ClassName": "eger_doors_cargo1",
+			"MaxPriceThreshold": 750,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "eger_doors_cargo2",
+			"MaxPriceThreshold": 750,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "eger_doors_codriver",
+			"MaxPriceThreshold": 750,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "eger_doors_driver",
+			"MaxPriceThreshold": 750,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "eger_doors_hood",
+			"MaxPriceThreshold": 750,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "eger_doors_trunk",
+			"MaxPriceThreshold": 750,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "eger_tent",
+			"MaxPriceThreshold": 750,
+			"MinPriceThreshold": 450,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "eger_wheel",
+			"MaxPriceThreshold": 300,
+			"MinPriceThreshold": 250,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"eger_wheel_2"
+			]
+		},
+		{
+			"ClassName": "gaz71_doors_codriver",
+			"MaxPriceThreshold": 440,
+			"MinPriceThreshold": 352,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "gaz71_doors_driver",
+			"MaxPriceThreshold": 440,
+			"MinPriceThreshold": 352,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "gaz71_doors_hood",
+			"MaxPriceThreshold": 440,
+			"MinPriceThreshold": 352,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "gaz71_doors_trunk",
+			"MaxPriceThreshold": 440,
+			"MinPriceThreshold": 352,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "gaz71_wheel",
+			"MaxPriceThreshold": 350,
+			"MinPriceThreshold": 285,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "interceptor_doors_codriver",
+			"MaxPriceThreshold": 450,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "interceptor_doors_driver",
+			"MaxPriceThreshold": 450,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "interceptor_doors_hood",
+			"MaxPriceThreshold": 450,
+			"MinPriceThreshold": 400,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "interceptor_wheel",
+			"MaxPriceThreshold": 400,
+			"MinPriceThreshold": 350,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "truenoae86_door_1_1",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 425,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"truenoae86_door_1_1_black",
+				"truenoae86_door_1_1_fuchia",
+				"truenoae86_door_1_1_orange",
+				"truenoae86_door_1_1_takumi"
+			]
+		},
+		{
+			"ClassName": "truenoae86_door_2_1",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 425,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"truenoae86_door_2_1_black",
+				"truenoae86_door_2_1_fuchia",
+				"truenoae86_door_2_1_orange",
+				"truenoae86_door_2_1_takumi"
+			]
+		},
+		{
+			"ClassName": "truenoae86_hood",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 425,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"truenoae86_hood_black",
+				"truenoae86_hood_fuchia",
+				"truenoae86_hood_orange",
+				"truenoae86_hood_takumi"
+			]
+		},
+		{
+			"ClassName": "truenoae86_trunk",
+			"MaxPriceThreshold": 500,
+			"MinPriceThreshold": 425,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"truenoae86_trunk_black",
+				"truenoae86_trunk_fuchia",
+				"truenoae86_trunk_orange",
+				"truenoae86_trunk_takumi"
+			]
+		},
+		{
+			"ClassName": "truenoae86_wheel",
+			"MaxPriceThreshold": 385,
+			"MinPriceThreshold": 350,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "uaz_3909_doors_cargo1",
+			"MaxPriceThreshold": 550,
+			"MinPriceThreshold": 420,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz_3909_doors_cargo1_blue"
+			]
+		},
+		{
+			"ClassName": "uaz_3909_doors_cargo2",
+			"MaxPriceThreshold": 550,
+			"MinPriceThreshold": 420,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz_3909_doors_cargo2_blue"
+			]
+		},
+		{
+			"ClassName": "uaz_3909_doors_cargo3",
+			"MaxPriceThreshold": 550,
+			"MinPriceThreshold": 420,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz_3909_doors_cargo3_blue"
+			]
+		},
+		{
+			"ClassName": "uaz_3909_doors_codriver",
+			"MaxPriceThreshold": 550,
+			"MinPriceThreshold": 420,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz_3909_doors_codriver_blue"
+			]
+		},
+		{
+			"ClassName": "uaz_3909_doors_driver",
+			"MaxPriceThreshold": 550,
+			"MinPriceThreshold": 420,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz_3909_doors_driver_blue"
+			]
+		},
+		{
+			"ClassName": "uaz_3909_doors_hood",
+			"MaxPriceThreshold": 550,
+			"MinPriceThreshold": 420,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz_3909_doors_hood_blue"
+			]
+		},
+		{
+			"ClassName": "uaz_3909_wheel",
+			"MaxPriceThreshold": 550,
+			"MinPriceThreshold": 385,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "uaz469_offroad_doors_cargo1",
+			"MaxPriceThreshold": 650,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz469_offroad_doors_cargo1_blue",
+				"uaz469_offroad_doors_cargo1_red",
+				"uaz469_offroad_doors_cargo1_yellow"
+			]
+		},
+		{
+			"ClassName": "uaz469_offroad_doors_cargo2",
+			"MaxPriceThreshold": 650,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz469_offroad_doors_cargo2_blue",
+				"uaz469_offroad_doors_cargo2_red",
+				"uaz469_offroad_doors_cargo2_yellow"
+			]
+		},
+		{
+			"ClassName": "uaz469_offroad_doors_cargo3",
+			"MaxPriceThreshold": 650,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz469_offroad_doors_cargo3_blue",
+				"uaz469_offroad_doors_cargo3_red",
+				"uaz469_offroad_doors_cargo3_yellow"
+			]
+		},
+		{
+			"ClassName": "uaz469_offroad_doors_codriver",
+			"MaxPriceThreshold": 650,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz469_offroad_doors_codriver_blue",
+				"uaz469_offroad_doors_codriver_red",
+				"uaz469_offroad_doors_codriver_yellow"
+			]
+		},
+		{
+			"ClassName": "uaz469_offroad_doors_driver",
+			"MaxPriceThreshold": 650,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz469_offroad_doors_driver_blue",
+				"uaz469_offroad_doors_driver_red",
+				"uaz469_offroad_doors_driver_yellow"
+			]
+		},
+		{
+			"ClassName": "uaz469_offroad_doors_hood",
+			"MaxPriceThreshold": 650,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz469_offroad_doors_hood_blue",
+				"uaz469_offroad_doors_hood_red",
+				"uaz469_offroad_doors_hood_yellow"
+			]
+		},
+		{
+			"ClassName": "uaz469_offroad_doors_trunk",
+			"MaxPriceThreshold": 650,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"uaz469_offroad_doors_trunk_blue",
+				"uaz469_offroad_doors_trunk_red",
+				"uaz469_offroad_doors_trunk_yellow"
+			]
+		},
+		{
+			"ClassName": "uaz469_offroad_wheel",
+			"MaxPriceThreshold": 450,
+			"MinPriceThreshold": 420,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		},
+		{
+			"ClassName": "vaz_2108_doors_codriver",
+			"MaxPriceThreshold": 520,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"vaz_2108_doors_codriver_ahegao",
+				"vaz_2108_doors_codriver_black",
+				"vaz_2108_doors_codriver_blue",
+				"vaz_2108_doors_codriver_chrome",
+				"vaz_2108_doors_codriver_gold",
+				"vaz_2108_doors_codriver_green",
+				"vaz_2108_doors_codriver_white"
+			]
+		},
+		{
+			"ClassName": "vaz_2108_doors_driver",
+			"MaxPriceThreshold": 520,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"vaz_2108_doors_driver_ahegao",
+				"vaz_2108_doors_driver_black",
+				"vaz_2108_doors_driver_blue",
+				"vaz_2108_doors_driver_chrome",
+				"vaz_2108_doors_driver_gold",
+				"vaz_2108_doors_driver_green",
+				"vaz_2108_doors_driver_white"
+			]
+		},
+		{
+			"ClassName": "vaz_2108_doors_hood",
+			"MaxPriceThreshold": 520,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"vaz_2108_doors_hood_ahegao",
+				"vaz_2108_doors_hood_black",
+				"vaz_2108_doors_hood_blue",
+				"vaz_2108_doors_hood_chrome",
+				"vaz_2108_doors_hood_gold",
+				"vaz_2108_doors_hood_green",
+				"vaz_2108_doors_hood_white"
+			]
+		},
+		{
+			"ClassName": "vaz_2108_doors_trunk",
+			"MaxPriceThreshold": 520,
+			"MinPriceThreshold": 485,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": [
+				"vaz_2108_doors_trunk_ahegao",
+				"vaz_2108_doors_trunk_black",
+				"vaz_2108_doors_trunk_blue",
+				"vaz_2108_doors_trunk_chrome",
+				"vaz_2108_doors_trunk_gold",
+				"vaz_2108_doors_trunk_green",
+				"vaz_2108_doors_trunk_white"
+			]
+		},
+		{
+			"ClassName": "vaz_2108_wheel",
+			"MaxPriceThreshold": 445,
+			"MinPriceThreshold": 385,
+			"SellPricePercent": -1,
+			"MaxStockThreshold": 30,
+			"MinStockThreshold": 1,
+			"QuantityPercent": -1,
+			"SpawnAttachments": [],
+			"Variants": []
+		}
+	]
+}
