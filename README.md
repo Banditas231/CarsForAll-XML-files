@@ -1,4 +1,4 @@
 # CarsForAll-XML-files
 Tested and workinf xml files
 Mod link:
-https://steamcommunity.com/sharedfiles/filedetails/?id=2577242845
+Unfortunately this mod has been removed, I leave the files for the future if the mod appears again.
